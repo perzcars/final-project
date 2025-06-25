@@ -157,3 +157,9 @@ main{
     border: 3px dotted #06BEE1;
     display: inline-block;
 }
+
+.taiwan table {
+    margin-left: -3px;
+    border-spacing: 20px;
+    border-collapse: separate;
+}
