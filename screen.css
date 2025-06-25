@@ -60,12 +60,6 @@ main{
     flex: 500px;
 }
 
-.taiwan h2 {
-    background-color: #2541B2;
-    color: #ffffff;
-    padding: 10px;
-}
-
 .iceland {
     display: flex;
     flex-direction: column;
@@ -124,6 +118,40 @@ main{
 
 .korea h3 {
     background-color: #1768AC;
+    color: white;
+    margin-left: -3px;
+    border: 3px dotted #06BEE1;
+    display: inline-block;
+}
+
+.taiwan {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-bottom: 2px dotted #e3e3e3
+}
+
+.taiwan h2 {
+    background-color: #2541B2;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.taiwan-1 img{
+    float: left;
+    margin-right: 10px;
+    gap: 20px;
+}
+
+.taiwan-2 img{
+    float: right;
+    margin-left: 10px;
+}
+
+.taiwan h3 {
+    background-color: #2541B2;
     color: white;
     margin-left: -3px;
     border: 3px dotted #06BEE1;
