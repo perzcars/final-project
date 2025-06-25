@@ -1,5 +1,5 @@
 html {
-    background-color: #F0EFF4;
+    background-color: #ffffff
 }
 
 body {
@@ -8,15 +8,36 @@ body {
     margin: 10px;
 }
 
+header {
+    background-color: #06BEE1;
+    color: white;
+    border-radius: 10px;
+    position: sticky;
+    padding: 15px;
+    text-align: center;
+}
+
+header h1 {
+    margin-top: 15px;
+}
+
+#intro {
+    border-bottom: 2px dotted #1768AC;
+    text-align: center;
+    padding: 20px;
+}
+
 h3 {
-    background-color: #939F5C;
+    background-color: white;
     border-radius: 10px;
     padding: 10px;
+    margin: 5px;
 }
 
 small {
-    background-color: #F0EFF4;
-    padding: 10px;
+    color: #ffffff;
+    background-color: #1768AC;
+    padding: 5px;
 }
 
 main{
