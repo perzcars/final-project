@@ -1,5 +1,5 @@
 html {
-    background-color: whitesmoke;
+    background-color: #F0EFF4;
 }
 
 body {
@@ -9,8 +9,13 @@ body {
 }
 
 h3 {
-    background-color: aqua;
+    background-color: #939F5C;
     border-radius: 10px;
+    padding: 10px;
+}
+
+small {
+    background-color: #F0EFF4;
     padding: 10px;
 }
 
@@ -20,7 +25,6 @@ main{
     padding: 10px;
     margin: 10px;
     text-align: center;
-
 }
 
 .post:nth-of-type(1){
@@ -34,3 +38,4 @@ main{
 .post:nth-of-type(3){
     flex: 500px;
 }
+
