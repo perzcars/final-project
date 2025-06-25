@@ -128,13 +128,6 @@ main{
     display: inline-block;
 }
 
-.korea table {
-    background-color: #e3e3e3;
-    margin-left: -3px;
-    border-spacing: 20px;
-    border-collapse: separate;
-}
-
 .taiwan {
     display: flex;
     flex-direction: column;
@@ -169,7 +162,7 @@ main{
     display: inline-block;
 }
 
-.taiwan table {
+table {
     background-color: #e3e3e3;
     margin-left: -3px;
     border-spacing: 20px;
