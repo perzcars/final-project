@@ -186,3 +186,10 @@ table {
     border-spacing: 20px;
     border-collapse: separate;
 }
+
+.text {
+    background-color: #e3e3e3;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
