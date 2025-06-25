@@ -12,9 +12,10 @@ header {
     background-color: #06BEE1;
     color: white;
     border-radius: 10px;
-    position: sticky;
     padding: 15px;
     text-align: center;
+    position: sticky;
+    top: 0;
 }
 
 header h1 {
